@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ycMhI4e/kP8wE+/dnJAeuzqq55BNtq4xQ14fZ6/4NYxIWrvj4B9r1PpOaoaPQpuOyyc7CRJrz+v4YiUziVh5qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TOTO\\Documents\\Bootcamp\\BootcampDay1\\BootcampDay1\\BootcampDay1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TOTO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
