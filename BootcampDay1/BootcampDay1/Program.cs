@@ -65,6 +65,11 @@ namespace BootcampDay1
                 Console.WriteLine(club.Name);
             }
             Console.WriteLine($"Broj golova po utakmici koje je {footballPlayer1.FirstName} ostavrio je {footballPlayer1.GetStats(17, 63)}");
+            HandballPlayer handballPlayer = new HandballPlayer("cupic", club3);
+            handballPlayer.LicenseID = Guid.NewGuid();
+            Console.WriteLine($"License: {handballPlayer.LicenseID}");
+            Console.WriteLine(handballPlayer.isLicensed(handballPlayer.LicenseID));
+            Console.ReadLine();
         }
 
     }

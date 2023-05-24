@@ -12,7 +12,7 @@ namespace BootcampDay1
         public string LastName { get; set; }
         public int Age { get; set; }
         public string Sport { get; set; }
-        protected Guid LicenseID { get; set; }
+        public Guid LicenseID { get; set; }
         public Club club { get; set; }
 
         public virtual string GetPlayerSport(Player player)
