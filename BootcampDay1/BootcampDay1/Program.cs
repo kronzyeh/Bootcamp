@@ -64,6 +64,7 @@ namespace BootcampDay1
             {
                 Console.WriteLine(club.Name);
             }
+            Console.WriteLine($"Broj golova po utakmici koje je {footballPlayer1.FirstName} ostavrio je {footballPlayer1.GetStats(17, 63)}");
         }
 
     }

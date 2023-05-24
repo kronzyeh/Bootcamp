@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TOTO\\Documents\\Bootcamp\\BootcampDay1\\BootcampDay1\\BootcampDay1.csproj": {}
+    "C:\\Users\\TOTO\\Desktop\\Bootcamp Console\\BootcampDay1\\BootcampDay1\\BootcampDay1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TOTO\\Documents\\Bootcamp\\BootcampDay1\\BootcampDay1\\BootcampDay1.csproj": {
+    "C:\\Users\\TOTO\\Desktop\\Bootcamp Console\\BootcampDay1\\BootcampDay1\\BootcampDay1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TOTO\\Documents\\Bootcamp\\BootcampDay1\\BootcampDay1\\BootcampDay1.csproj",
+        "projectUniqueName": "C:\\Users\\TOTO\\Desktop\\Bootcamp Console\\BootcampDay1\\BootcampDay1\\BootcampDay1.csproj",
         "projectName": "BootcampDay1",
-        "projectPath": "C:\\Users\\TOTO\\Documents\\Bootcamp\\BootcampDay1\\BootcampDay1\\BootcampDay1.csproj",
+        "projectPath": "C:\\Users\\TOTO\\Desktop\\Bootcamp Console\\BootcampDay1\\BootcampDay1\\BootcampDay1.csproj",
         "packagesPath": "C:\\Users\\TOTO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TOTO\\Documents\\Bootcamp\\BootcampDay1\\BootcampDay1\\obj\\",
+        "outputPath": "C:\\Users\\TOTO\\Desktop\\Bootcamp Console\\BootcampDay1\\BootcampDay1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TOTO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,23 +45,16 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.32, 3.1.32]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

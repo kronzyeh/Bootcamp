@@ -12,3 +12,17 @@ C:\Users\TOTO\Documents\Bootcamp\BootcampDay1\BootcampDay1\obj\Release\netcoreap
 C:\Users\TOTO\Documents\Bootcamp\BootcampDay1\BootcampDay1\obj\Release\netcoreapp3.1\BootcampDay1.pdb
 C:\Users\TOTO\Documents\Bootcamp\BootcampDay1\BootcampDay1\obj\Release\netcoreapp3.1\BootcampDay1.genruntimeconfig.cache
 C:\Users\TOTO\Documents\Bootcamp\BootcampDay1\BootcampDay1\obj\Release\netcoreapp3.1\BootcampDay1.csproj.AssemblyReference.cache
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\bin\Release\netcoreapp3.1\BootcampDay1.exe
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\bin\Release\netcoreapp3.1\BootcampDay1.deps.json
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\bin\Release\netcoreapp3.1\BootcampDay1.runtimeconfig.json
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\bin\Release\netcoreapp3.1\BootcampDay1.runtimeconfig.dev.json
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\bin\Release\netcoreapp3.1\BootcampDay1.dll
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\bin\Release\netcoreapp3.1\BootcampDay1.pdb
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\obj\Release\netcoreapp3.1\BootcampDay1.csproj.AssemblyReference.cache
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\obj\Release\netcoreapp3.1\BootcampDay1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\obj\Release\netcoreapp3.1\BootcampDay1.AssemblyInfoInputs.cache
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\obj\Release\netcoreapp3.1\BootcampDay1.AssemblyInfo.cs
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\obj\Release\netcoreapp3.1\BootcampDay1.csproj.CoreCompileInputs.cache
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\obj\Release\netcoreapp3.1\BootcampDay1.dll
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\obj\Release\netcoreapp3.1\BootcampDay1.pdb
+C:\Users\TOTO\Desktop\Bootcamp Console\BootcampDay1\BootcampDay1\obj\Release\netcoreapp3.1\BootcampDay1.genruntimeconfig.cache

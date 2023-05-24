@@ -17,5 +17,9 @@ namespace BootcampDay1
         {
             return player.Sport;
         }
+        public float GetStats(float goals, int chances)
+        {
+            return goals / chances;
+        }
     }
 }
